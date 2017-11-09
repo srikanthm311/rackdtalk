@@ -1,0 +1,95 @@
+.testmainials {
+    @include size(100%, 330px);
+    float: left;
+      background: url(../img/testmonails.jpg);
+    margin-top: 30px;
+}
+.thumbnail {
+    padding: 4px 90px;
+    background-color: transparent;
+    border: 0;
+    
+
+}
+.carousel-indicators .active {
+  background: #31708f;
+}
+
+.content {
+    margin-top: 62px;
+    margin-bottom: 62px;
+}
+
+.adjust1 {
+    float: left;
+    width: 100%;
+    margin-bottom: 0;
+    img{
+        @include size(80px, 80px);
+        border-radius: 100px;
+        margin: 0 auto;
+        display: block;
+    }
+    
+    .caption {
+        p {
+            line-height: 26px;
+            @include font-size(15);
+            color: $white;
+            span {
+                color: #59b8c7;
+                @include font-size(40);
+                display: block;
+                
+                &:last-child{
+                    float: right;
+                }
+            }
+        }
+    }
+}
+.adjust2 {
+    padding: 0;
+    text-align: center;
+    border: 0;
+ p {
+        @include font-size(19);
+        margin: 0;
+    }
+    small {
+        color: $white;
+    }
+}
+
+.carousel-indicators li {
+  border: 1px solid #ccc;
+}
+
+.carousel-control {
+  color: #31708f;
+  width: 5%;
+  &:hover, &:focus {
+    color: #31708f;
+  }
+  &.left, &.right {
+    background-image: none;
+  }
+}
+
+.media-object {
+  margin: auto;
+  margin-top: 15%;
+}
+
+@media screen and (max-width: 768px) {
+  .media-object {
+    margin-top: 0;
+  }
+}
+
+.carousel-control {
+    img {
+        position: relative;
+        top:36%;
+    }
+}

@@ -1,0 +1,51 @@
+Your Mobile Number Changed @Easyticketz
+<html>
+<body>
+<table width="960" cellspacing="25" cellpadding="5" border="0" align="center" style="    border: 1px solid #f7f7f7;
+    background: #f7f7f7;">
+  <tbody>
+  <tr>
+  <td colspan="3" style="font-size: 24px;
+    text-align: center;
+    font-family:Verdana; line-height:34px;">WELCOME TO EASYTICKETZ.in!<br><img src="http://www.easyticketz.in/images/logo.png" alt="email-logo" /></td>
+  </tr>
+  
+  
+    <tr>
+      <td width="400" valign="top" colspan="2" style="font-size:11px;font-family:Open Sans"><br>
+        
+        <table width="100%" cellspacing="0" cellpadding="7" border="0">
+          <tbody>
+        
+          <tr>
+              <td colspan="2" style="font-size:11px;font-family:verdana;"><strong> Your mobile number changed from <#PREVMOBILE#> to <#NEWMOBILE#>
+                </strong></td>
+            </tr>
+			  
+		
+  <tr>
+   <td colspan="2">
+            	
+
+<br>
+<p style="font-family:Verdana; font-size:13px;">Many thanks,<br>
+The Easy Ticketz team
+<br><img src="http://www.easyticketz.in/images/logo.png" alt="email-logo" style="width: 140px; margin-top: 7px;" />
+</p>
+            </td>
+            </tr>
+            
+			
+          </tbody>
+        </table>
+        </td>
+        <td><img src="http://www.easyticketz.in/images/Tourist-Bus.png" alt="email-logo" /></td>
+        
+        
+    </tr>
+    
+  </tbody>
+</table>
+
+</body>
+</html>

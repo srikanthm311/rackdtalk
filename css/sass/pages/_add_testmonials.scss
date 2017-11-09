@@ -1,0 +1,65 @@
+.add_test {
+    @include size(80%, auto);
+    
+    form {
+        input {
+            @include size(100%, 48px);
+            @include padding-all(6px, 19px, 6px, 19px);
+        }
+        select {
+            @include size(40%, 48px);
+        }
+        input,
+        input::-webkit-input-placeholder {
+            font-size: 14px;
+
+            color: $grey-666;
+        }
+        textarea {
+            @include size(100%, 118px);
+        }
+        textarea,
+        textarea::-webkit-input-placeholder {
+            font-size: 14px;
+
+            color: $grey-666;
+        }
+        .add-testmon {
+            width: 40%;
+        }
+    }
+}
+.type_of_que {
+    @include border-radius(4px);
+    @include size(100%, 48px);
+    @include padding-all(6px, 19px, 6px, 19px);
+    border: 1px solid $grey-one;
+    line-height: 35px;
+    
+    ul {
+        margin: 0;
+        padding: 0;
+        li {
+            margin-left: 20px;
+            float: left;
+            color: #333;
+            input {
+                width: auto;
+                padding: 0;
+                margin: 0;
+                height: auto;
+            }
+            .radio {
+                margin: 0;
+                label {
+                    padding-left: 30px;
+                    line-height: 15px;
+                }
+            }
+            
+            &:first-child {
+                margin: 0;
+            }
+        }
+    }
+}

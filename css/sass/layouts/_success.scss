@@ -1,0 +1,23 @@
+.full-width-con {
+    .success-message {
+        background-color: light_white;
+        border: 1px solid $light_whiteeee;
+        @include border-radius(50px);
+        @include padding-all(40px, 40px, 40px, 40px);
+        ul {
+            padding: 0;
+            li {   
+                color: $greay_545454 !important;
+                @include font-size(25);
+                font-weight: bold;
+                text-align: center;
+                margin-bottom: 15px;
+            }
+            li.success-text {
+                @include font-size(13);
+                color: $greay_545454;
+                margin-top: 10px;
+             }
+        }
+    }
+}

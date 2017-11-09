@@ -1,0 +1,7 @@
+[30-May-2017 15:14:08 Asia/Kolkata] PHP Fatal error:  Can't use function return value in write context in /home1/bagitm60/public_html/rock/application/models/Users_model.php on line 306
+[30-May-2017 15:15:21 Asia/Kolkata] PHP Fatal error:  Can't use function return value in write context in /home1/bagitm60/public_html/rock/application/models/Users_model.php on line 306
+[30-May-2017 15:15:47 Asia/Kolkata] PHP Fatal error:  Can't use function return value in write context in /home1/bagitm60/public_html/rock/application/models/Users_model.php on line 306
+[30-May-2017 15:15:49 Asia/Kolkata] PHP Fatal error:  Can't use function return value in write context in /home1/bagitm60/public_html/rock/application/models/Users_model.php on line 306
+[30-May-2017 15:17:57 Asia/Kolkata] PHP Fatal error:  Can't use function return value in write context in /home1/bagitm60/public_html/rock/application/models/Users_model.php on line 306
+[30-May-2017 16:17:42 Asia/Kolkata] PHP Fatal error:  Class 'Superadmin_model' not found in /home1/bagitm60/public_html/rock/system/core/Loader.php on line 305
+[30-May-2017 18:03:53 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home1/bagitm60/public_html/rock/application/controllers/Main.php on line 734

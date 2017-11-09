@@ -1,0 +1,122 @@
+RockDTalk Account Creation 
+
+<html>
+
+<body>
+
+<table width="960" cellspacing="25" cellpadding="5" border="0" align="center" style="    border: 1px solid #f7f7f7;
+
+    background: #f7f7f7;">
+
+  <tbody>
+
+  <tr>
+
+  <td colspan="3" style="font-size: 24px;
+
+    text-align: center;
+
+    font-family:Verdana; line-height:34px;">WELCOME TO RockDTalk!<br>
+
+<span style="font-size:16px;">Thank you for registering with us..</span><br><img src="<#BASEURL#>css/img/logohome.png" alt="email-logo" /></td>
+
+  </tr>
+
+  
+
+  
+
+    <tr>
+
+      <td width="400" valign="top" colspan="2" style="font-size:11px;font-family:Open Sans"><br>
+
+        
+
+        <table width="100%" cellspacing="0" cellpadding="7" border="0">
+
+          <tbody>
+
+          <tr>
+
+  <td style="font-family:Verdana;"><strong>Your Account Details!</strong></td>
+
+  </tr>
+
+          <tr>
+
+              <td colspan="2" style="font-size:11px;font-family:verdana;"><strong>   Username: <a target="_blank" href="mailto: <#USERNAME#>"> <#USERNAME#></a><br>
+
+                </strong></td>
+
+            </tr>
+
+			   <tr><td  colspan="2"  style="font-size:11px; font-family:verdana;">
+
+                <strong>Password: <#PASSWORD#><br>
+
+                </strong></td>
+
+				
+
+            </tr>
+
+				  <tr><td  colspan="2"  style="font-size:11px; font-family:verdana;">
+
+                <strong>Activation Link: <a href='<#VERIFY#>'>Click here to activate your account.</a><br>
+
+                </strong></td>
+
+				
+
+            </tr>
+
+		
+
+            <tr>
+
+            <td colspan="2">
+
+            	
+
+<span style="text-align:left; font-size:14px; font-family:Verdana;">Your account has been created and you can now access other services including:</span>
+
+
+
+<br>
+
+<p style="font-family:Verdana; font-size:13px;">Many thanks,<br>
+
+The Coupon Day team
+
+<br><img src="<#BASEURL#>css/img/logohome.png" alt="email-logo" style="width: 140px; margin-top: 7px;" />
+
+</p>
+
+            </td>
+
+            </tr>
+
+            
+
+			
+
+          </tbody>
+
+        </table>
+
+        </td>
+
+    </tr>
+
+    
+
+  </tbody>
+
+</table>
+
+
+
+</body>
+
+</html>
+

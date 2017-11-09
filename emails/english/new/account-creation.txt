@@ -1,0 +1,84 @@
+Easyticketz Account Creation 
+
+<html>
+
+<body>
+
+<table width="600" cellspacing="0" cellpadding="0" border="0" align="center" style="border:1px solid #bfbfbf; background:#9CF">
+
+  <tbody>
+
+    <tr>
+
+      <td width="427" valign="top" style="padding:10px 10px;font-size:11px;font-family:verdana"><br>
+
+        <strong><u>Account Details!</u></strong><br>
+
+        <br>
+
+        <table width="100%" cellspacing="0" cellpadding="7" border="0">
+
+          <tbody>
+
+            <tr>
+
+              <td bgcolor="#F4F8E7" style="font-size:11px;font-family:verdana;border:1px solid #333"><strong>Your account details are as follows:  </strong><br> <br>
+
+              </td>
+
+              </tr>
+
+            <tr>
+
+              <td bgcolor="#F4F8E7" style="font-size:11px;font-family:verdana;"><strong>   Username: <a target="_blank" href="mailto: <#USERNAME#>"> <#USERNAME#></a><br>
+
+                </strong></td>
+
+            </tr>
+
+			   <tr><td  bgcolor="#F4F8E7" style="font-size:11px;font-family:verdana;border:1px solid #333">
+
+                <strong>Password: <#PASSWORD#><br>
+
+                </strong></td>
+
+				
+
+            </tr>
+
+			
+
+			 <tr><td  bgcolor="#F4F8E7" style="font-size:11px;font-family:verdana;border:1px solid #333">
+
+                <strong>Activation Link: <a href='<#VERIFY#>'>Click here to activate your account.</a><br>
+
+                </strong></td>
+
+				
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+        <br>
+
+        <br>
+
+        <br></td>
+
+    </tr>
+
+  </tbody>
+
+</table>
+
+<p>Regards</p>
+
+<img src="http://www.easyticketz.in/img/logo.png" alt="email-logo" />
+
+</body>
+
+</html>
+

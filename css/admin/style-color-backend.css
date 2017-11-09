@@ -1,0 +1,62 @@
+/*-----backend-----*/
+.sec-footer2{
+    background-color: #23b0a5;
+	color:#ffffff;
+}
+
+.categories{
+	background-color: #23b0a5;
+}
+.list-group-item1:hover {
+	background-color:#23b0a5;
+}
+.list-group-item1:focus {
+	background-color:#23b0a5;
+}
+.list-group-item1.active{
+	background-color:#FE8E32;
+}
+
+.list-group-item2:hover {
+  background-color:#23b0a5;
+}
+.list-group-item2:focus {
+	background-color:#23b0a5;
+}
+.list-group-item2.active{
+	background-color:#23b0a5;
+}
+.add-product-submit{
+	background-color: #23b0a5;
+}
+.list-group-item2.active{
+	background-color:#23b0a5;
+}
+.add-product-submit:hover{
+	background-color: #23b0a5;
+}
+
+.category_add:focus {
+    background-color: #23b0a5;
+}
+.dashbaord_heading{
+	color:#23b0a5;
+}
+.order_dashboard {
+	color: #23b0a5;
+}
+.number_design {
+	color: #23b0a5;
+}
+.number_designns {
+	color: #23b0a5;
+}
+.number_designns:hover {
+	color: #23b0a5;
+}
+.number_design:hover {
+	color: #23b0a5;
+}
+.view_button:hover {
+	color: #23b0a5;
+}

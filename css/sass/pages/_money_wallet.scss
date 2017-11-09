@@ -1,0 +1,90 @@
+.addmoneywallet {
+    @include padding-all(5%, 0, 4%, 0); 
+    background: $white;
+}
+.addmoney {
+    @include size(460px, auto);
+    margin: 0 auto;
+    padding: 2%;
+    
+    h2 {
+        @include font-size(35);
+        color: $heading;
+        margin-bottom: 30px;
+        font-family:'Conv_Montserrat-Bold',Sans-Serif;
+    }
+    p {
+        color: $black5;
+        margin-bottom: 30px;
+    }
+    .moneyinput {
+        input {
+            @include size(100%, 45px);
+            @include border-radius(50px); 
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        input,
+        input::-webkit-input-placeholder {
+            font-size: 20px;
+            color: $grey-dark;
+        }
+    }
+    .recet-pass {
+        input {
+            text-align: left;
+            padding: 6px 19px;
+        }
+        input,
+        input::-webkit-input-placeholder {
+            @include font-size(15);
+            color: $grey-999;
+        }
+    }
+    .addmoney-btn {
+        height: 45px;
+    }
+}
+
+.howitwprks {
+    background: $wh-aprr-1;
+    @include size(100%, 365px);
+    
+    .howitworksicon {
+    }
+    
+    h3 {
+        color: $oragne;
+    }
+    ul {
+        padding: 0;
+        li {
+            margin-left: 45px;
+            float: left;
+            h5 {
+                @include font-size(20);
+                color: $grey-dark;
+                text-align: center;
+            }
+            
+            &:first-child {
+                margin: 0;
+            }
+        }
+        li::after {
+            content: $money_icon;
+        }
+        li.win-last::after {
+            display: none;
+        }
+    }
+}
+
+.addmoney_container {
+    padding: 9% 2%;
+}
+
+.addmoneyone {
+    background: $light_white;
+    @include border-radius(8px);
+}

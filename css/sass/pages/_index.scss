@@ -1,0 +1,104 @@
+.home-navbar {
+    position: absolute;
+}
+
+
+.main-banner {
+    background: url(../img/banner.jpg);
+    @include size(100%, 647px);
+    padding-top: 13%;
+    padding-bottom: 11%;
+    
+    @include laptop{
+        height: 497px;  
+    }
+    
+    
+    .home-cover {
+        @include size(100%, 180px);
+        top:20%;
+        position: relative;
+        
+         h2 {
+            color: #fff;
+            @include font-size(45);
+            margin-bottom: 50px;
+            span {
+                &:nth-child(1) {
+                    font-family: 'Conv_Montserrat-Bold',Sans-Serif;
+                }
+                &:nth-child(2) {
+                    font-family:'Conv_Montserrat-ExtraBold',Sans-Serif;
+                    text-shadow: 0px 4px 8px rgba(0, 0, 0, 0.24); 
+                }
+            }
+        }
+        
+        ul {
+            padding: 0;
+            li {
+                margin-left: 20px;
+                float: left;
+                a {
+                    @include size(auto, 40px);
+                    background: #0079b2;
+                    padding: 0 25px;
+                    border: 1px solid $white;
+                    color: $white;
+                    float: left;
+                    line-height: 40px;
+                    text-decoration: none;
+                    @include border-radius(50px);
+                    box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.24); 
+                    
+                }
+                a.win {
+                    background: #fe6426;
+                }
+                
+                &:first-child {
+                    margin: 0;
+                }
+            }
+            
+            li::after {
+                content: url(../img/homearrow.png);
+                overflow: hidden;
+                float: left;
+                margin: 8px 0 0 13px;
+            }
+            li.win-last::after {
+                display: none;
+            }
+        }
+    }
+}
+
+.main-home-nav-bar {
+    background: transparent;
+}
+
+.trending_que_home {
+    border-bottom: 1px solid #d3d6db;
+    color: #0093d9;
+    text-align: center;
+    p {
+        @include font-size(20);
+    }
+}
+
+.trending-main-home {
+    border-bottom: 1px solid #d3d6db;
+    margin: 0;
+    .trending-left {
+        border: 0;
+    }
+}
+.home-view-all {
+    width: 177px;
+    color: $white;
+}
+
+.trending_que_homeone {
+    border: 0;
+}

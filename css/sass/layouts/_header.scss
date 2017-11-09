@@ -1,0 +1,13 @@
+.navmain {
+    background-color: rgb(2,209,191);
+    @include linear-gradient($lg_blue_To, $lg_blue_From);
+    min-height: 70px;
+    border: 0;
+
+    
+}
+
+
+.navmaind {
+    background: none;
+}

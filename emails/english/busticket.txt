@@ -1,0 +1,242 @@
+Easyticketz Ticket - <#PNR#>
+<html>
+<body>
+<div class="container-fluid" style="background-color: #f8f8f8;">
+		<div class="container">
+			<div class="row">
+			<div class="col-lg-12" style="border: 1px solid #eee; padding: 10px; margin: 10px 0px;">
+			<table>
+			<tbody>
+			<tr>
+				<td style="margin:0 20px 0 0;padding:0 15px 0 0;width:1%">
+				<div style="display:inline-block;border-right:1px solid #ccc;margin:0 0 8px 0"><img alt="easyticketzLogo" src="http://www.easyticketz.in/images/logo.png" style="padding:10px" class="CToWUd"></div>
+								</td>
+								<td style="font-size:30px;margin:0;padding:3px;width:1%">eTICKET</td>
+
+								
+							    <td colspan="3">
+									<div> 
+										
+							   		</div>
+									
+								</td>
+								
+
+								<td style="width:35%;padding:0;margin:0;text-align:right">
+									<p style="font-weight:bold;margin:0 0 5px;padding:0">Need help with your trip?</p>
+									<p style="margin:0;padding:0"><span>(+91) 9940 617 710</span></p>
+									<p style="margin:0;padding:0"><a target="_blank" href="mailto:easyticketzpl@gmail.com">care@<span class="il">Easyticketz</span>.<span class="il">in</span></a></p>
+					  			</td>
+					  		</tr>
+			
+			<tr>
+				<td colspan="6">
+					<table style="overflow:visible;text-align:left;font-variant:normal;font-weight:normal;font-size:14px;background-color:fff;line-height:20px;font-family:Asap,sans-serif;color:#333;padding:0;font-style:normal;width:100%;">
+						<tbody>
+							<tr style="height:60px;overflow:hidden;margin-top:20px;padding:0 0 5px;">
+				  			<td style="border-bottom:1px solid #ffcc00;width:50%;" colspan="4">
+				  				<div style="font-size:22px;">
+				  					<span style="display:-moz-inline-stack;display:inline-block;zoom:1;margin:0 0 7px 0;font-weight:bold;padding:0;"><span><#SOURCE#></span></span> 
+				  					<span style="display:-moz-inline-stack;display:inline-block;zoom:1;margin-right:10px;margin-left:10px;">
+										<img alt="-&gt;" src="http://www.easyticketz.in/images/arrow.png">
+									</span>
+				  					<span style="display:-moz-inline-stack;display:inline-block;zoom:1;margin:0 0 7px 0;font-weight:bold;padding:0;margin-right:19px;"><span><#DESTINATION#></span></span>
+
+				  					<span><span><#JOURNYDATE#></span></span>
+								</div>
+				  			</td>
+				  			<td style="border-bottom:1px solid #ffcc00;width:15%;text-align:right;" colspan="2">
+				  				<p style="font-size:12px;font-weight:bold;margin:0;padding:0;">Ticket no: <span><#TICKETNO#></span> </p>
+				  				<p style="font-size:12px;margin:0;padding:0;">PNR no: <span><#PNR#>/<#SERVICEID#></span></p>
+                                <p style="font-size:12px;margin:0;padding:0;"></p>
+				  			</td>
+						</tr>
+						</tbody>
+					</table>
+
+					<table style="overflow:visible;text-align:left;font-variant:normal;font-weight:normal;font-size:14px;background-color:fff;line-height:20px;font-family:Asap,sans-serif;color:#333;padding:0;font-style:normal;width:100%;">
+						
+					  <tbody>
+					  	<tr style="margin:0;padding:0;">
+						<td style="width:25%;font-size:14px;margin:0;padding:10px;border-bottom:1px solid #e0e0e0;vertical-align:middle;">
+						  <p style="font-weight:bold;margin:0 0 5px;padding:0;text-transform:capitalize;"><span><#SERVICE#></span></p> 
+						  <span style="font-size:12px;color:#999;margin:0;padding:0;"><span><#SERVTYPE#></span></span>
+						</td>
+											<td style="width:25%;font-size:14px;margin:0;padding:10px;border-bottom:1px solid #e0e0e0;vertical-align:middle;">
+							<p style="font-weight:700;margin:0 0 5px;padding:0;"><span><#DEPTIME#></span></p>
+							<span style="font-size:12px;color:#999;margin:0;padding:0;">Departure time</span>  
+						</td>
+						<td style="width:25%;font-size:14px;margin:0;padding:10px;border-bottom:1px solid #e0e0e0;vertical-align:middle;">
+							<p style="font-weight:700;margin:0 0 5px;padding:0;"><span><#SEATS#></span></p>
+							<span style="font-size:12px;color:#999;margin:0;padding:0;">Seat numbers</span>  
+						</td>
+					  </tr>
+				
+					  
+					  <tr style="margin:0;padding:0;">
+						<td style="font-size:14px;margin:0;padding:10px;border-bottom:1px solid #e0e0e0;vertical-align:middle;">
+						  <p style="font-weight:700;margin:0 0 5px;padding:0;">Boarding point details</p> 
+						</td>
+					
+						<td style="font-size:14px;margin:0;padding:10px;border-bottom:1px solid #e0e0e0;vertical-align:middle;">
+							<p style="font-weight:700;margin:0 0 5px;padding:0"><span><#LANDMARK#></span></p>
+							<span style="font-size:12px;color:#999;margin:0;padding:0;">Landmark</span>  
+						</td>
+						<td style="font-size:14px;margin:0;padding:10px;border-bottom:1px solid #e0e0e0;vertical-align:middle;">
+							<p style="font-weight:700;margin:0 0 5px;padding:0;"><span><#CONTACT#> </span></p>
+						</td>
+					  </tr>
+					  </tbody>
+					</table>
+                    
+					<table style="overflow:visible;text-align:left;font-variant:normal;font-weight:normal;font-size:14px;background-color:fff;line-height:20px;font-family:Asap,sans-serif;color:#333;padding:0;font-style:normal;width:100%;">
+						<tbody>
+						 <#TRAVELERS#>
+                            <tr style="margin:0 0 20px;padding:0;">
+                                <td>
+                                    <span>NOTE : This operator accepts mTicket, you need not carry a print out</span>
+                                </td>
+                            </tr>
+							<tr style="margin:0 0 20px;padding:0;">
+								<td>
+									
+								</td>
+							
+								<td style="margin:0;padding:5px;text-align:right;" colspan="6">
+								  <p style="font-size:18px;font-weight:700;margin:0;padding:0;"><span style="font-size:12px;margin:0 10px 0 0;padding:0;">Total Fare :</span><span>Rs.<#SERVICETAX#></span></p>
+								
+								</td>
+							</tr>
+
+						</tbody>
+					</table>
+
+					<table cellspacing="3" style="overflow:visible;text-align:left;font-variant:normal;font-weight:normal;font-size:14px;background-color:fff;line-height:20px;font-family:Asap,sans-serif;color:#333;padding:0;font-style:normal;width:100%; margin-top: 20px;">
+						<tbody>
+							<tr>
+	<td style="width:45%">
+									<hr style="min-height:2px;background-color:#333;width:100%;">		
+								</td>
+	<td>
+									<div style="background:#fff;width:176px;text-align:center;">
+									Terms and Conditions	
+									</div>
+								</td>
+	<td style="width:45%">
+									<hr style="min-height:2px;background-color:#333;width:100%;">
+								</td>
+</tr>
+
+						</tbody>
+					
+					</table>
+					
+					
+					<table cellspacing="3" style="overflow:visible;text-align:left;font-variant:normal;font-weight:normal;font-size:14px;background-color:fff;line-height:20px;font-family:Asap,sans-serif;color:#333;padding:0;font-style:normal;width:100%;">
+						<tbody>
+							<tr>
+								<td style="width:47%;font-size:12px;line-height:16px;vertical-align:top;">
+									<ol>
+										<li>
+											<p style="min-height:99px;padding:0;">
+												<span class="il">Easyticketz</span>* is ONLY a bus ticket agent. It does not operate bus services of its own. In order to provide a comprehensive choice of bus operators, departure times and prices to customers, it has tied up with many bus operators.
+												<span class="il">Easyticketz</span>'s advice to customers is to choose bus operators they are aware of and whose service they are comfortable with.
+											</p>
+											<p style="font-weight:bold;margin:0;"><span class="il">Easyticketz</span> responsibilities include:</p>
+											<ul style="margin:0 0 10px 0;padding:0;list-style:none;">
+												<li style="margin-left:10px;">(1) Issuing a valid ticket (a ticket that will be accepted by the bus operator) for its network of bus operators</li> 
+												<li style="margin-left:10px;">(2) Providing refund and support in the event of cancellation</li>
+												<li style="margin-left:10px;"> (3) Providing customer support and information <span class="il">in</span> case of any delays / inconvenience</li>
+											</ul>
+
+											<p style="font-weight:bold;margin:0;"><span class="il">Easyticketz</span> responsibilities do not include:</p>
+
+											<ul style="min-height:251px;margin:0 0 10px 0;padding:0;list-style:none;">
+												<li style="margin-left:10px;">(1) The bus operator's bus not departing / reaching on time.</li>
+												<li style="margin-left:10px;">(2) The bus operator's employees being rude.</li> 
+												<li style="margin-left:10px;">(3) The bus operator's bus seats etc not being up to the customer's expectation.</li>
+												<li style="margin-left:10px;">(4) The bus operator canceling the trip due to unavoidable reasons.</li>
+												<li style="margin-left:10px;">(5) The baggage of the customer getting lost / stolen / damaged.</li>
+												<li style="margin-left:10px;">(6) The bus operator changing a customer's seat at the last minute to accommodate a lady / child. </li>
+												<li style="margin-left:10px;">(7) The customer waiting at the wrong boarding point (please call the bus operator to find out the exact boarding point if you are not a regular traveler on that particular bus).</li>
+												<li style="margin-left:10px;">(8) The bus operator changing the boarding point and/or using a pick-up vehicle at the boarding point to take customers to the bus departure point.</li>
+											</ul>
+										</li>
+										<li>
+											<p style="margin:0px 0 20px 0px;padding:0;">
+												The departure time mentioned on the ticket are only tentative timings. However the bus will not leave the source before the time that is mentioned on the ticket.
+											</p>
+										</li>
+									</ol>
+								</td>
+								<td style="width:6%">
+								</td>
+								<td style="width:47%;font-size:12px;line-height:16px;vertical-align:top;">
+									<ol start="3">
+										<li><p style="padding:0;">Passengers are required to furnish the following at the time of boarding the bus:<br>(1) A copy of the ticket (A print out of the ticket or the print out of the ticket e-mail). <br>(2) A valid identity proof <br>Failing  to do so, they may not be allowed to board the bus.</p>	</li>
+										<li><p style="padding:0;"><span>Change of bus: In case the bus operator changes the type of bus due to some reason, <span class="il">Easyticketz</span> will refund the differential amount to the customer upon being intimated by the customers in 24 hours of the journey.</span></p></li>
+										<li><p style="padding:0;">Amenities for this bus as shown on <span class="il">Easyticketz</span> have been configured and provided by the bus provider (bus operator). These amenities will be provided unless there are some exceptions on certain days. Please note that <span class="il">Easyticketz</span> provides this information in good faith to help passengers to make an informed decision. The liability of the amenity not being made available lies with the operator and not with <span class="il">Easyticketz</span>.</p></li>
+										<li><p style="padding:0;"><span><span class="il">In</span> case one needs the refund to be credited back to his/her bank account, please write your cash coupon details to <a target="_blank" href="mailto:support@easyticketz.in">support@<span class="il">Easyticketz</span>.in</a> 
+										* The home delivery charges (if any), will not be refunded in the event of ticket cancellation </span></p></li>
+										<li><p style="padding:0;">In case a booking confirmation e-mail and sms gets delayed or fails because of technical reasons or as a result of incorrect e-mail ID / phone number provided by the user etc, a ticket will be considered 'booked' as long as the ticket shows up on the confirmation page of <a target="_blank" href="http://www.easyticketz.in">www.<span class="il">Easyticketz</span>.in</a></p></li>
+										<li><p style="padding:0;">Grievances and claims related to the bus journey should be reported to <span class="il">Easyticketz</span> support team within 10 days of your travel date.</p></li>
+										<li><p style="padding:0;"><span>Partial Cancellation is <b>NOT</b> allowed for this ticket.</span></p>
+										<p></p><div>
+										<table width="400" height="57" cellspacing="0" border="1" align="Left" style="padding:0;margin-bottom:7px;" rules="all">
+											<tbody><tr align="left">
+												<th width="60%" align="left" scope="col"><font size="1"><b>Cancellation time</b></font></th><th width="29%" align="left" scope="col"><font size="1"><b>Cancellation charges</b></font></th>
+											</tr>
+											  <#CANCELLATION#>
+											</tbody></table>
+										</div><p></p>
+										</li>
+									</ol>
+								</td>
+							</tr>
+							 <tr>
+								<td colspan="6">
+									<hr style="border-top:0px solid #ccc">
+								</td>
+							</tr>
+							
+						</tbody>
+					</table>
+                    
+					<table style="overflow:visible;text-align:left;font-variant:normal;font-weight:normal;font-size:14px;background-color:fff;font-family:Asap,sans-serif;color:#333;padding:0;font-style:normal;width:100%;">
+						<tbody>
+							<tr>
+								<td colspan="3">
+									<span style="font-size:18px;color:#333;margin:0;padding:0;">Whom should i call?</span>
+								</td>
+							</tr>
+
+							<tr style="margin:0 0 10px;padding:0;">
+								<td style="padding-bottom:10px;">
+									<p style="font-size:12px;font-weight:700;margin:0;color:#333;padding:0;">For boarding point related</p>
+									<span style="margin:0;padding:0;text-align:right;"><span>(+91) 9940 617 710</span></span>
+								</td>
+								<td style="padding-bottom:10px;">
+									<p style="font-size:12px;font-weight:700;margin:0;color:#333;padding:0;">For time related</p>
+									<span style="margin:0;padding:0;text-align:right;"><span>(+91) 9940 617 710</span></span>
+								</td>
+                                <td style="padding-bottom:10px;">
+                                       <p style="font-size:12px;font-weight:700;margin:0;color:#333;padding:0;">For cancellation and refunds related</p>
+                                    <span style="font-size:12px;color:#333;margin:0;padding:0;">Click on this  <a target="_blank" href="#">link</a> for hassle free online cancellation
+                                       </span>
+                                </td>
+								<td style="padding-bottom:10px;">
+                                    <p style="font-size:12px;font-weight:700;margin:0;color:#333;padding:0;">For all queries</p>						
+									<span style="font-size:12px;color:#333;margin:0;padding:0;">Call (+91) 9940 617 710 or email us to <a  href="mailto:support@easyticketz.in">support@<span class="il">Easyticketz</span>.in</a></span>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</td>
+			</tr>
+		</tbody></table>
+		</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

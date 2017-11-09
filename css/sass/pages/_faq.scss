@@ -1,0 +1,49 @@
+.faqs {
+    h2 {
+        color: $heading;
+        text-align: center;
+        @include font-size(23);
+        font-family:'Conv_Montserrat-Bold',Sans-Serif;
+        margin-bottom: 20px;
+    }
+    
+    
+    .panel-default > .panel-heading {
+    padding: 0;
+    border-radius: 0;
+    color: $grey-999;
+    background-color: #FAFAFA;
+    border-color: #EEEEEE;
+    }
+
+    .panel-title {
+      @include font-size(16);
+      > a {
+            display: block;
+            padding: 15px;
+            text-decoration: none;
+            background: $white;
+      }
+        
+       
+    }
+
+    .more-less {
+        float: right;
+        color: $grey-999;
+        @include font-size(20);
+        font-family:'Conv_Montserrat-Bold',Sans-Serif;
+    }
+
+    .panel-default > .panel-heading + .panel-collapse > .panel-body {
+        border-top-color: #EEEEEE;
+        color: $grey-999;
+        @include font-size(13);
+        line-height: 1.6;
+
+    }
+    
+    .panel-group .panel {
+        margin-bottom: 10px;
+    }
+}
